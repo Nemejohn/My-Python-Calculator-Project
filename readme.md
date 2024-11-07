@@ -1,10 +1,12 @@
 <!-- Hey, in this project I created a simple calculator with GUI using python -->
 
-<!-- PROJECT DISCRIPTION -->
+<!-- ''' PROJECT DISCRIPTION ''' -->
+''' PROJECT DISCRIPTION '''
 
 This is a simple calculator application built using Python. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The calculator features a clean and intuitive user interface, making it easy for anyone to use.
 
-<!-- FEATURES -->
+<!-- ''' FEATURES ''' -->
+''' FEATURES '''
 
 * Perform basic arithmetic operations: addition, subtraction, multiplication, and division.
 
@@ -12,7 +14,8 @@ This is a simple calculator application built using Python. It allows users to p
 
 * Responsive design for mobile and desktop views.
 
-<!-- TECHNOLOGIES USED -->
+<!-- ''' TECHNOLOGIES USED ''' -->
+''' TECHNOLOGIES USED '''
 
 Python: Structure of the calculator.
 
@@ -20,7 +23,9 @@ Python: Structure of the calculator.
 
         Logic for performing calculations.
 
-<!-- INSTALLATION -->
+
+<!-- ''' INSTALLATION ''' -->
+''' INSTALLATION '''
 
 -- Clone the repository:
 Bash
@@ -34,7 +39,8 @@ cd python_calculator_project
 -- Open the python file in your browser to view the calculator.
 
 
-<!--- Usage --->
+<!-- ''' Usage ''' -->
+''' Usage '''
 
 * Enter the numbers using the numeric buttons.
 
@@ -45,7 +51,8 @@ cd python_calculator_project
 * Use the 'AC' button to clear the input.
 
 
-<!-- Contributing -->
+<!-- ''' Contributing ''' -->
+''' Contributing '''
 
 Contributions are welcome! Please follow these steps to contribute:
 
@@ -60,6 +67,7 @@ Contributions are welcome! Please follow these steps to contribute:
 * Open a pull request.
 
 
-<!-- Contact -->
+<!-- ''' Contact ''' -->
+''' Contact '''
 
 For any questions or feedback, please contact me at [nemejohn62@gmail.com].
