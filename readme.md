@@ -34,7 +34,7 @@ cd python_calculator_project
 -- Open the python file in your browser to view the calculator.
 
 
-<!-- Usage -->
+<!--- Usage --->
 
 * Enter the numbers using the numeric buttons.
 
